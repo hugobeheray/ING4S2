@@ -1,0 +1,15 @@
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.csproj.AssemblyReference.cache
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.AssemblyInfoInputs.cache
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.AssemblyInfo.cs
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.csproj.CoreCompileInputs.cache
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/bin/Debug/net6.0/lab2
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/bin/Debug/net6.0/lab2.deps.json
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/bin/Debug/net6.0/lab2.runtimeconfig.json
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/bin/Debug/net6.0/lab2.dll
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/bin/Debug/net6.0/ref/lab2.dll
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/bin/Debug/net6.0/lab2.pdb
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.dll
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/ref/lab2.dll
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.pdb
+/Users/hugobeheray/Documents/ING4S2/C#/lab2/obj/Debug/net6.0/lab2.genruntimeconfig.cache
