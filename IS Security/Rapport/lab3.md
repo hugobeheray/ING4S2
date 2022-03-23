@@ -77,7 +77,7 @@ CACert.crt  CAPrivKey   CAPubKey    CaKeyPair   ServerRequest.csr
 
 ### Exercise "TLS Protocol"
 
-- _The Client generates a  le RNc. We ask you to create RNc and write a random number of your choice. Afterwards, you need to send it to the Server (by using the copy command as we have seen in the last session)_
+- _The Client generates a file RNc. We ask you to create RNc and write a random number of your choice. Afterwards, you need to send it to the Server (by using the copy command as we have seen in the last session)_
 
 ```sh
 
@@ -97,7 +97,7 @@ CACert.crt  CAPrivKey   CAPubKey    CaKeyPair   ServerRequest.csr
 
   ```
 
-  - _Apply the hash function SHA256 on RNcRNs to  nd its hash HashRNcRNs._
+  - _Apply the hash function SHA256 on RNcRNs to find its hash HashRNcRNs._
 
   ```sh
 
@@ -169,7 +169,7 @@ CACert.crt  CAPrivKey   CAPubKey    CaKeyPair   ServerRequest.csr
 
   ```
 
-  - _We ask you to create the  le ClientData and encrypt it thanks to MS._
+  - _We ask you to create the file ClientData and encrypt it thanks to MS._
 
   ```sh
 
@@ -183,7 +183,7 @@ CACert.crt  CAPrivKey   CAPubKey    CaKeyPair   ServerRequest.csr
 
 - _The Server will answer to the Client:_
 
-  - _Create the  le ServerData and encrypt it thanks to MS._
+  - _Create the file ServerData and encrypt it thanks to MS._
 
   ```sh
 
